@@ -22,6 +22,8 @@ h6 {
   letter-spacing: 4px;
 }
 
+/* navigation bar styling */
+
 nav {
   background: #fbeee6;
   height: 20em;
@@ -34,7 +36,6 @@ nav {
 
 nav ul {
   display: flex;
-  /* justify-self: flex-end; */
   flex-wrap: wrap;
   list-style: none;
   float: right;
@@ -115,7 +116,6 @@ div p {
   width: 150%;
   position: absolute;
   z-index: -1;
-  align-self: top;
   right: 100px;
   padding-top: 0px;
   /* transition: 5s; add animation to make disc roll */
@@ -125,7 +125,6 @@ div p {
   width: 150%;
   position: absolute;
   z-index: -1;
-  align-self: top;
   right: 100px;
   padding-top: 0px;
   /* transition: 5s; add animation to make disc roll */
@@ -159,7 +158,6 @@ div {
   width: 130%;
   padding-top: 150px;
   left: 230px;
-  align-self: top;
 }
 
 /* contact info at the bottom of each page */
@@ -242,12 +240,6 @@ footer {
 
 /* PROJECTS PAGE */
 
-#plant {
-  width: 300px;
-  float: right;
-  /* top: 300px; */
-}
-
 .project {
   background: rgb(255, 255, 255);
   padding: 3em;
@@ -297,8 +289,9 @@ footer {
     padding-top: 3em;
   }
 
+  /* navigation bar on tablet */
+
   nav ul {
-    display: in-line;
     display: flex;
     flex-direction: row;
     width: 70%;
@@ -340,6 +333,8 @@ footer {
   #subheading {
     margin-left: 4em;
   }
+
+  /* navigation bar on desktop */
 
   nav ul {
     display: inline;
@@ -383,6 +378,8 @@ footer {
     padding-top: 0em;
   }
 
+  /* blog page style on desktop */
+
   .bloglist {
     display: flex;
     flex-direction: row;
@@ -401,7 +398,7 @@ footer {
     margin: 2em;
   }
 
-  /* flexbox for content below hero section  */
+  /* flexbox for content below hero sections  */
 
   .flexwrap {
     display: flex;
@@ -417,6 +414,4 @@ footer {
     padding-left: 0;
     padding-right: 0;
   }
-
-
 }
