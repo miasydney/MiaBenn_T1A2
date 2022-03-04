@@ -238,6 +238,11 @@ footer {
   font-size: 1em;
 }
 
+#profilepic {
+  width: 60vw;
+  margin: 4em;
+}
+
 /* PROJECTS PAGE */
 
 .project {

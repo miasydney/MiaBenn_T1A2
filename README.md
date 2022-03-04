@@ -1,5 +1,6 @@
 General project documentation is to be compiled as a single markdown file namedÂ README.md. This file should contain,
 * A link (URL) to your published portfolio website
+https://reverent-kirch-75accd.netlify.app/index.html
 
 * A link to your GitHub repo
 
@@ -7,7 +8,7 @@ General project documentation is to be compiled as a single markdown file namedÂ
 The purpose of the portfolio is to act as an online resume for me to aid with job applications. Hence the target audience of this portfolio is prospective employers, who will be accessing the website in order to determine my suitability for job opportunities and acces previus examples of my work. The website functionality 
 
 * Tech stack:
-The tech stack used to create it includes: HTML, CSS, Git, GitHub, Netlify. 
+The tech stack used to create it includes: HTML, CSS, Git, GitHub and Netlify. 
 
 * Functionality/Features:
 The portfolio site features a home page as well as four additional pages which are all accessible via the main menu bar/navigation bar. These include: about, projects, contact and blog. It also features a menu bar item which links to a PDF resume in a new tab, allowing for employers to easily access and download my resume. The navigation bar is viewable on every page to allow for easy navigation around the website and is styled using flex wrap for better responsiveness across mobile, tablet and desktop size screens. 
