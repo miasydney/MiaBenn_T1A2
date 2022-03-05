@@ -1,0 +1,53 @@
+commit 84ccb5d1f3cb80688039470877ecdbb1700e0c70
+Author: work <work@Mias-MBP.modem>
+Date:   Sat Mar 5 13:01:52 2022 +1000
+
+    updated MD document
+
+commit 18bac015b0366a7b7a918f97899cc1b83fc4fc70
+Author: work <work@Mias-MBP.modem>
+Date:   Fri Mar 4 12:56:19 2022 +1000
+
+    changed the file structure
+
+commit 90cca183090b59205f9c1de16b64b07045bf5aad
+Author: work <work@Mias-MBP.modem>
+Date:   Wed Mar 2 21:52:07 2022 +1000
+
+    after debugging
+
+commit e3d6637f3b1b638d5732de1d31c555aac274358d
+Author: work <work@Mias-MBP.modem>
+Date:   Tue Mar 1 15:46:58 2022 +1000
+
+    added in flex for responsive pages
+
+commit e31c3a9fbf5d60d095bd494a34dfb6f4c661f408
+Author: work <work@Mias-MBP.modem>
+Date:   Tue Mar 1 12:20:40 2022 +1000
+
+    some minor styling changes
+
+commit 28d70cf92dea5bf37ffae1538d2d0eedca67a058
+Author: work <work@Mias-MBP.modem>
+Date:   Sat Feb 26 23:24:06 2022 +1000
+
+    more changes to pages, new classes added
+
+commit 243c6dff38470e798c333f30b7ff9b55a7f2cd60
+Author: work <work@Mias-MBP.modem>
+Date:   Sat Feb 26 12:55:40 2022 +1000
+
+    logo changed and classes added to pages
+
+commit 9dee3831dba15d4eb4f1090d6281d6a1eb3816cd
+Author: work <work@Mias-MBP.modem>
+Date:   Fri Feb 25 23:27:12 2022 +1000
+
+    changed nav bar and projects
+
+commit fe4d4f48cf3df6f3d08e6b7c338627ffc9f09dfd
+Author: work <work@Mias-MBP.modem>
+Date:   Fri Feb 25 16:42:29 2022 +1000
+
+    initial commit
